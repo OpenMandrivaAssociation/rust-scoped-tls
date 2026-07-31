@@ -5,8 +5,8 @@
 %global crate scoped-tls
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        4%{?dist}
+Version:        1.0.1
+Release:        1%{?dist}
 Summary:        Implementation of the standard library's old `scoped_thread_local!` macro
 
 # Upstream license specification: MIT/Apache-2.0
